@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly. Like this: Hello World!
+            This website is being deployed on Vercel.
           </li>
         </ol>
 
